@@ -20,16 +20,6 @@ Built with Flask, LangChain text-splitters, Sentence-Transformers, and a clean v
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add screenshots of your running app here (e.g., `docs/screenshot-chat.png`, `docs/screenshot-sidebar.png`)._
->
-> ```markdown
-> ![Chat interface](docs/screenshot-chat.png)
-> ![Sidebar with documents](docs/screenshot-sidebar.png)
-> ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -325,7 +315,7 @@ This project is for **educational and personal use**. It is **not** production-h
 
 ## 👤 Author
 
-**\Neel Soni**
+**Neel Soni**
 
 
 If this project helped you, consider giving it a ⭐!
